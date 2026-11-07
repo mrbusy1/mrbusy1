@@ -1,4 +1,4 @@
-# 👑 MRBUSY1 | Developer & Digital Creator
+# 👑 Mr.Busy | Developer & Digital Creator
 
 <p align="center">
   <strong>Building useful digital experiences, modern websites and powerful online tools.</strong>
