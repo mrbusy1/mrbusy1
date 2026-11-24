@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0284C7&height=200&section=header&text=Sufian%20Amjad%20(Mr.%20Busy)&fontSize=34&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Automation%20Engineer&descSize=15&descAlignY=60&descColor=CBD5E1" width="100%" />
 
-# 🚀 Sufian Amjad (Mr. Busy)
-
 ### Full-Stack Developer • AI Automation Engineer • Software Architect
 
 </div>
